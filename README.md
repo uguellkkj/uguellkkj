@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Uguell 👋
 
-<!--
-**uguellkkj/uguellkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Freelancer | 🧠 Cursando Informação para Internet | 🌱 Em constante aprendizado
 
-Here are some ideas to get you started:
+Sou uma pessoa curiosa, interessada em tecnologia, comportamento humano, sentimentos e autoconhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔭 Atualmente
+
+- 💻 Trabalhando como freelancer
+- 🌱 Estudando Psicologia e Psicanálise
+- 🤝 Buscando oportunidades para colaborar com empresas e projetos
+- 🧠 Explorando temas relacionados a sentimentos, comportamento e autoconhecimento
+
+# 💬 Sobre o que podemos conversar?
+
+- Sentimentos e emoções
+- Autoconhecimento
+- Psicologia e Psicanálise
+- Tecnologia e projetos
+- Experiências de vida e desenvolvimento pessoal
+
+# 🎯 Meu objetivo
+
+Continuar aprendendo, criar novas oportunidades e transformar conhecimento em projetos e conexões que façam sentido.
+
+# 👨‍💻 Sobre mim
+
+- Pronouns: ele/dele
+- Trabalho: Freelancer
+- Interesses: Psicologia, Psicanálise, tecnologia e autoconhecimento
+
+
+> "Conhecer a si mesmo é o começo de toda sabedoria."
