@@ -1,4 +1,4 @@
-# Olá, eu sou Uguell 👋
+# Olá, eu sou Miguel 👋
 
 💻 Freelancer | 🧠 Cursando Informação para Internet | 🌱 Em constante aprendizado
 
